@@ -1,1 +1,1 @@
-# CloudComputingNick
+Otet Nicolae - Proiect Cloud Computing
