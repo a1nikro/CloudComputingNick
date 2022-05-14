@@ -20,7 +20,15 @@ De asemenea, datele aplicatiei sunt actualizate in ritm constant, astfel număru
 
 Introducere parametrii
 
+
+![Image-1](https://user-images.githubusercontent.com/105311851/168444828-05c96b44-2900-4b5d-9927-5bfcd5165b55.png)
+
+
 Obtinere rezultat
+
+
+![Image-2](https://user-images.githubusercontent.com/105311851/168444849-74405430-127f-47d9-ba65-d21cf514d271.png)
+
 
 ## Tehnologii
 * Node.js
