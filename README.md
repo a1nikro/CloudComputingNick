@@ -66,3 +66,9 @@ In final, utilizand response-urile de la cele doua API-uri, aplicatia intoarce s
 
 ## Contact
 Via mail: otetnicolae18@stud.ase.ro
+
+Student: Otet Nicolae, grupa 1118
+
+Link publicare: https://main.d1v3yvsu0uhn1t.amplifyapp.com/
+Link video: https://www.youtube.com/watch?v=l8FX35e69fQ 
+Imi cer scuze pentru balbaieli, sa fac tutoriale video nu e pentru mine :))))
